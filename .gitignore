@@ -1,0 +1,4 @@
+/venv
+/.git
+Procfile
+setup.sh
